@@ -1,4 +1,5 @@
-# ShadowComms — Off-Grid LoRa Communicator
+# ShadowComms
+Off-Grid LoRa Communicator
 
 Handheld encrypted text messenger over LoRa radio — no cell network, no Wi-Fi, no internet. Built from scratch for Hack Club Half Life.
 
