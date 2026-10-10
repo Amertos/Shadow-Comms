@@ -62,10 +62,10 @@ def shell_bottom():
         .extrude(H / 2)
         .edges("|Z")
         .fillet(FILLET_R)
-        .faces("<Z")
+        .faces(">Z")           # cut the cavity DOWN from the top face so the 2 mm floor is at z=0..WALL
         .workplane()
         .rect(L - 2 * WALL, W - 2 * WALL)
-        .cutBlind(-H / 2 + WALL)  # hollow
+        .cutBlind(-(H / 2 - WALL))  # negative = downward; leaves a 2 mm floor and 2 mm walls
     )
 
     # lip ridge on the parting plane
@@ -93,24 +93,26 @@ def shell_bottom():
         )
         sk = sk.union(boss)
 
-    # PCB shelf pins (simple press fit columns)
+    # PCB shelf pins (press-fit columns rising from the inner floor, not from z=0)
     for sx, sy in [(-1, -1), (1, -1), (-1, 1), (1, 1)]:
         px, py = L / 2 - 14.0, W / 2 - 8.0
         pin = (
             cq.Workplane("XY")
+            .workplane(offset=WALL)  # start at the inner floor, not the outer bottom
             .center(sx * px, sy * py)
             .circle(1.6)
-            .extrude(PCB_HOLD_H + 1.0)
+            .extrude(PCB_HOLD_H)     # top of pin = z=6.0, PCB rests here
         )
         sk = sk.union(pin)
 
-    # battery pocket (shallow recess on the outer floor)
+    # battery recess: pocket milled 1.5 mm INTO the 2 mm floor (leaves 0.5 mm membrane,
+    # prints fine flat-side-down, and the LiPo sits flush against it)
     batt = (
         cq.Workplane("XY")
-        .workplane(offset=WALL)
+        .workplane(offset=1.5)
         .center(-14.0, 0)
         .rect(BATT_BOX[0], BATT_BOX[1])
-        .extrude(BATT_BOX[2])
+        .extrude(-1.5)
     )
     sk = sk.cut(batt)
 
@@ -133,10 +135,10 @@ def shell_top():
         .extrude(H / 2)
         .edges("|Z")
         .fillet(FILLET_R)
-        .faces("<Z")
+        .faces(">Z")           # cut the cavity DOWN from the top face, 2 mm rim remains
         .workplane()
         .rect(L - 2 * WALL, W - 2 * WALL)
-        .cutBlind(-H / 2 + WALL)  # hollow
+        .cutBlind(-(H / 2 - WALL))
     )
 
     # lip groove (slightly oversized so the two shells mate)
