@@ -71,6 +71,4 @@ JOURNAL.md              # mirrored from Half Life
 
 See [BOM.md](BOM.md) for the platform-tracked parts list (funded tier).
 
-## License
 
-MIT
