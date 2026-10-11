@@ -28,9 +28,8 @@
 | 10uF | 10 uF ceramic capacitor 16 V 0603 (3.3 V rail decoupling) | 1 | $0.05 | $0.05 | Mouser |
 | Piezo | Piezo buzzer 12x9.5 mm, SPL > 70 dB (alert audio) | 1 | $0.35 | $0.35 | Mouser |
 | SW_Push | Momentary SPST tactile switch 4.5x4.5 mm (IO0 press) | 1 | $0.12 | $0.12 | Mouser |
-| SW_Push | Momentary SPST tactile switch 4.5x4.5 mm (BOOT press) | 1 | $0.12 | $0.12 | Mouser |
-| **Parts subtotal** | — | — | — | **$33.98** | — |
+| **Parts subtotal** | — | — | — | **$33.86** | — |
 | **Tax & shipping** | — | — | — | **$9.34** | — |
-| **Total** | — | — | — | **$43.32** | — |
+| **Total** | — | — | — | **$43.20** | — |
 
-**$13.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$13.20 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
