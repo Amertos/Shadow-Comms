@@ -22,11 +22,8 @@
 | TP4056 | TP4056 Li-Ion/Li-Po linear charger IC 1 A | 1 | $0.12 | $0.12 | LCSC |
 | USB-C_Receptacle_USB2.0 | USB-C 2.0 receptacle 31-Pin (USB-C 31-M-12) SMD | 1 | $1.10 | $1.10 | Mouser |
 | LiPo_Battery | 2-pin 2.54 mm header for LiPo battery BAT+/GND | 1 | $0.06 | $0.06 | Mouser |
-| E-ink_FPC | 4-pin 2.54 mm header for 2.9 inch E-ink FPC display I2C | 1 | $0.05 | $0.05 | Mouser |
-| 12.4k | Resistor 12.4 kOhm 1% 0603 (TP4056 PROG pull-down) | 1 | $0.02 | $0.02 | Mouser |
-| 10uF | 10 uF ceramic capacitor 16 V 0603 (VBUS decoupling) | 1 | $0.05 | $0.05 | Mouser |
-| **Parts subtotal** | — | — | — | **$33.34** | — |
+| **Parts subtotal** | — | — | — | **$33.22** | — |
 | **Tax & shipping** | — | — | — | **$9.34** | — |
-| **Total** | — | — | — | **$42.68** | — |
+| **Total** | — | — | — | **$42.56** | — |
 
-**$12.68 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$12.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
