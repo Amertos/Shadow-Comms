@@ -19,9 +19,8 @@
 | [S&S SFN-12055PA6.5](https://www.lcsc.com/product-detail/C360607.html?s_z=n_q_Piezo%2520Buzzer%25205V) | Micro SMD Tactile Push Buttons | 5 | $0.09 | $0.45 | [LCSC](https://www.lcsc.com/product-detail/C360607.html?s_z=n_q_Piezo%2520Buzzer%25205V) |
 | ESP32-WROOM-32E | ESP32-WROOM-32E 2.4 GHz Wi-Fi+BLE module (ESP32-D0WDQ6 esp-ram 384 kB) | 1 | $9.00 | $9.00 | Mouser |
 | SX1262 | SX1262 sub-GHz LoRa transceiver (Semtech SX1262) on 1x6 pin header breakout | 1 | $11.00 | $11.00 | Mouser |
-| TP4056 | TP4056 Li-Ion/Li-Po linear charger IC 1 A | 1 | $0.12 | $0.12 | LCSC |
-| **Parts subtotal** | — | — | — | **$32.06** | — |
+| **Parts subtotal** | — | — | — | **$31.94** | — |
 | **Tax & shipping** | — | — | — | **$9.34** | — |
-| **Total** | — | — | — | **$41.40** | — |
+| **Total** | — | — | — | **$41.28** | — |
 
-**$11.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$11.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
