@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [ESPRESSIF ESP32-WROOM-32E-N4](https://www.lcsc.com/product-detail/C701341.html?s_z=n_q_ESP32-WROOM-32E) | Wi-Fi + BLE modul, main MCU | 1 | $3.78 | $3.78 | [LCSC](https://www.lcsc.com/product-detail/C701341.html?s_z=n_q_ESP32-WROOM-32E) |
 | [SX1262 LoRa Module](https://www.lcsc.com/product-detail/C42381682.html?s_z=n_q_p_SX1262%2520LoRa%2520Module) | Long-Range Transceiver (868 MHz) | 1 | $5.64 | $5.64 | [LCSC](https://www.lcsc.com/product-detail/C42381682.html?s_z=n_q_p_SX1262%2520LoRa%2520Module) |
-| **Parts subtotal** | — | — | — | **$9.42** | — |
+| **Parts subtotal** | — | — | — | **$5.64** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$9.42** | — |
+| **Total** | — | — | — | **$5.64** | — |
 
-$20.58 left of the tier's funding.
+$24.36 left of the tier's funding.
