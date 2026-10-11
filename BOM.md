@@ -20,10 +20,8 @@
 | ESP32-WROOM-32E | ESP32-WROOM-32E 2.4 GHz Wi-Fi+BLE module (ESP32-D0WDQ6 esp-ram 384 kB) | 1 | $9.00 | $9.00 | Mouser |
 | SX1262 | SX1262 sub-GHz LoRa transceiver (Semtech SX1262) on 1x6 pin header breakout | 1 | $11.00 | $11.00 | Mouser |
 | TP4056 | TP4056 Li-Ion/Li-Po linear charger IC 1 A | 1 | $0.12 | $0.12 | LCSC |
-| USB-C_Receptacle_USB2.0 | USB-C 2.0 receptacle 31-Pin (USB-C 31-M-12) SMD | 1 | $1.10 | $1.10 | Mouser |
-| LiPo_Battery | 2-pin 2.54 mm header for LiPo battery BAT+/GND | 1 | $0.06 | $0.06 | Mouser |
-| **Parts subtotal** | — | — | — | **$33.22** | — |
+| **Parts subtotal** | — | — | — | **$32.06** | — |
 | **Tax & shipping** | — | — | — | **$9.34** | — |
-| **Total** | — | — | — | **$42.56** | — |
+| **Total** | — | — | — | **$41.40** | — |
 
-**$12.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$11.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
