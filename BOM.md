@@ -25,11 +25,8 @@
 | E-ink_FPC | 4-pin 2.54 mm header for 2.9 inch E-ink FPC display I2C | 1 | $0.05 | $0.05 | Mouser |
 | 12.4k | Resistor 12.4 kOhm 1% 0603 (TP4056 PROG pull-down) | 1 | $0.02 | $0.02 | Mouser |
 | 10uF | 10 uF ceramic capacitor 16 V 0603 (VBUS decoupling) | 1 | $0.05 | $0.05 | Mouser |
-| 10uF | 10 uF ceramic capacitor 16 V 0603 (3.3 V rail decoupling) | 1 | $0.05 | $0.05 | Mouser |
-| Piezo | Piezo buzzer 12x9.5 mm, SPL > 70 dB (alert audio) | 1 | $0.35 | $0.35 | Mouser |
-| SW_Push | Momentary SPST tactile switch 4.5x4.5 mm (IO0 press) | 1 | $0.12 | $0.12 | Mouser |
-| **Parts subtotal** | — | — | — | **$33.86** | — |
+| **Parts subtotal** | — | — | — | **$33.34** | — |
 | **Tax & shipping** | — | — | — | **$9.34** | — |
-| **Total** | — | — | — | **$43.20** | — |
+| **Total** | — | — | — | **$42.68** | — |
 
-**$13.20 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$12.68 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
