@@ -1,0 +1,13 @@
+Ref Des,Value,Footprint,Description,Manufacturer Part,Vendor,Vendor URL,Price (USD),Qty
+U1,ESP32-WROOM-32E,RF_Module:ESP32-WROOM-32x,ESP32-WROOM-32E 2.4 GHz Wi-Fi+BLE module (ESP32-D0WDQ6 esp-ram 384 kB),Espressif ESP32-WROOM-32E,Mouser,https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-WROOM-32E,9.0,1
+U2,SX1262,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,SX1262 sub-GHz LoRa transceiver (Semtech SX1262) on 1x6 pin header breakout,Semtech SX1262,Mouser,https://www.mouser.com/Search/Refine.aspx?Keyword=SX1262,11.0,1
+U3,TP4056,Package_SO:SOP-8_3.9x4.9mm_P1.27mm,TP4056 Li-Ion/Li-Po linear charger IC 1 A,TOCHINO-TP4056,LCSC,https://lcsc.com/product-detail/TP4056_TOMIC-TP4056-C304642_1922877.html,0.12,1
+J1,USB-C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,USB-C 2.0 receptacle 31-Pin (USB-C 31-M-12) SMD,HRO TYPE-C-31-M-12,Mouser,https://www.mouser.com/ProductDetail/Hirose-Diagnostic-Corporation/CU-31M-12,1.1,1
+J2,LiPo_Battery,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,2-pin 2.54 mm header for LiPo battery BAT+/GND,PANASONIC SPA02A-T16TJE,Mouser,https://www.mouser.com/ProductDetail/Panasonic/SP-02B-T16,0.06,1
+J3,E-ink_FPC,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,4-pin 2.54 mm header for 2.9 inch E-ink FPC display I2C,Kammad CMP-004T-1,Mouser,https://www.mouser.com/Search/Refine.aspx?Keyword=4-pin-2.54-header-vertical,0.05,1
+R1,12.4k,Resistor_SMD:R_0603_1608Metric,Resistor 12.4 kOhm 1% 0603 (TP4056 PROG pull-down),YAGEO RC0603FR-07124KL,Mouser,https://www.mouser.com/ProductDetail/Yageo/RC0603FR-07124KL,0.02,1
+C1,10uF,Capacitor_SMD:C_0603_1608Metric,10 uF ceramic capacitor 16 V 0603 (VBUS decoupling),Samsung CL21A106KCHVPNE,Mouser,https://www.mouser.com/ProductDetail/Samsung/CL21A106KCHVPNE,0.05,1
+C2,10uF,Capacitor_SMD:C_0603_1608Metric,10 uF ceramic capacitor 16 V 0603 (3.3 V rail decoupling),Samsung CL21A106KCHVPNE,Mouser,https://www.mouser.com/ProductDetail/Samsung/CL21A106KCHVPNE,0.05,1
+BZ1,Piezo,Buzzer_Beeper:Buzzer_12x9.5RM7.6,"Piezo buzzer 12x9.5 mm, SPL > 70 dB (alert audio)",Honeywell / Murata,Mouser,https://www.mouser.com/Search/Refine.aspx?Keyword=12x9.5mm-piezo,0.35,1
+SW1,SW_Push,Button_Switch_SMD:SW_SPST_TL3342,Momentary SPST tactile switch 4.5x4.5 mm (IO0 press),TLSP-1033ECAG,Mouser,https://www.mouser.com/ProductDetail/E-SWITCH/TLSP-1033ECAG,0.12,1
+SW2,SW_Push,Button_Switch_SMD:SW_SPST_TL3342,Momentary SPST tactile switch 4.5x4.5 mm (BOOT press),TLSP-1033ECAG,Mouser,https://www.mouser.com/ProductDetail/E-SWITCH/TLSP-1033ECAG,0.12,1
