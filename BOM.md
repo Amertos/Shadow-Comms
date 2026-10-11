@@ -18,7 +18,7 @@
 | [hanxia HX TYPE C-M 24P-RST](https://www.lcsc.com/product-detail/C42453853.html?s_z=n_q_p_hanxia%2520HX%2520TYPE%2520C-M%252024P%2520RA-ST) | USB-C Female Connector (Power & Data) | 7 | $0.21 | $1.47 | [LCSC](https://www.lcsc.com/product-detail/C42453853.html?s_z=n_q_p_hanxia%2520HX%2520TYPE%2520C-M%252024P%2520RA-ST) |
 | [S&S SFN-12055PA6.5](https://www.lcsc.com/product-detail/C360607.html?s_z=n_q_Piezo%2520Buzzer%25205V) | Micro SMD Tactile Push Buttons | 5 | $0.09 | $0.45 | [LCSC](https://www.lcsc.com/product-detail/C360607.html?s_z=n_q_Piezo%2520Buzzer%25205V) |
 | **Parts subtotal** | — | — | — | **$11.94** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.94** | — |
+| **Tax & shipping** | — | — | — | **$9.34** | — |
+| **Total** | — | — | — | **$21.28** | — |
 
-$18.06 left of the tier's funding.
+$8.72 left of the tier's funding.
